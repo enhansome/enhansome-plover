@@ -1,0 +1,205 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Dictionaries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Emily's Symbols",
+          "description": "A python dictionary that allows you to write symbols with full control over spacing on both sides of the symbol, capitalization, and count.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rich Text Format",
+            "last_commit": "2022-01-17T05:04:23Z",
+            "owner": "EPLHREU",
+            "repo": "emily-symbols",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emily's Modifiers",
+          "description": "A python dictionary to allow you to make any keyboard shortcut (with any number of modifiers) in one stroke.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rich Text Format",
+            "last_commit": "2023-06-16T05:24:01Z",
+            "owner": "EPLHREU",
+            "repo": "emily-modifiers",
+            "stars": 59
+          }
+        }
+      ],
+      "title": "Programming"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dict Commands",
+          "description": "Enable, disable, and reorder dictionaries with steno strokes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-10-28T13:11:28Z",
+            "owner": "KoiOates",
+            "repo": "plover_dict_commands",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "System Switcher",
+          "description": "Switch between different steno systems on the fly, critical for multilingual stenography.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-01-11T03:23:18Z",
+            "owner": "nsmarkop",
+            "repo": "plover_system_switcher",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open URL",
+          "description": "Open a website or file with a steno stroke, which can make Googling a spelling while transcribing much easier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-07-11T03:11:35Z",
+            "owner": "nsmarkop",
+            "repo": "plover_open_url",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VLC Commands",
+          "description": "Play, pause, seek, and adjust the rate of VLC media player with steno strokes. Paired with your favorite text editor, it makes an excellent transcription tool. It even has support for outputting the current timestamp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-03T15:52:17Z",
+            "owner": "opensteno",
+            "repo": "plover_vlc_commands",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Commands"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fancy Text",
+          "description": "Switch between typing in all sorts of exotic modes. It's essential if you want to keep up with the kids, supporting everything from \"ｖａｐｏｒｗａｖｅ\" to \"sARcASm\" to \"c,,ry ttypinng,\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-23T19:15:50Z",
+            "owner": "psethwick",
+            "repo": "plover_fancytext",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Last Translation",
+          "description": "Repeat the last translation (word, shortcut, emoji, etc.) with a single stroke.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-06-21T04:59:33Z",
+            "owner": "nsmarkop",
+            "repo": "plover_last_translation",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Text Macros"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spectra Lexer",
+          "description": "A beautiful tool that explains why words are stroked the way that they are in your dictionary.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-22T00:39:37Z",
+            "owner": "fourshade",
+            "repo": "spectra_lexer",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clippy",
+          "description": "Creates a text file which stores all your inefficient strokes, saving you from watching the suggestions window all the time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-05T21:50:02Z",
+            "owner": "tckmn",
+            "repo": "plover_clippy",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WPM Meter",
+          "description": "See the words per minute and strokes per word of your writing for the last 10 and 60 seconds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T16:46:08Z",
+            "owner": "arxanas",
+            "repo": "plover_wpm_meter",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Tools and Widgets"
+    },
+    {
+      "description": "If you have a favorite Plover plugin or dictionary that isn't listed, it would be awesome if you added it. Please read the contribution guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:55:52.679Z",
+    "original_repository": "opensteno/awesome-plover",
+    "original_repository_sha": "50a5aaa99509587262ea4c3ac7289996d87ea035",
+    "enhanced_repository": "enhansome/enhansome-plover",
+    "enhanced_repository_description": null,
+    "title": "Awesome Plover with stars"
+  }
+}
