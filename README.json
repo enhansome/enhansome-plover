@@ -7,6 +7,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Di's Steno Dictionaries",
+              "description": "A wonderfully organized list of dictionaries from the maker of Typey Type with everything from removing misstrokes from Plover Theory, to advice on computer use, alternative locales, and programming.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156055967,
+                "language": "JSON",
+                "last_commit": "2026-03-24T11:27:54Z",
+                "owner": "didoesdigital",
+                "repo": "steno-dictionaries",
+                "stars": 95
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Collections"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Jade-GG's Phrasing",
+              "description": "A python dictionary phrasing system that lets you write entire phrases such as \"we don't really want to\" in one stroke.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162932681,
+                "language": "Python",
+                "last_commit": "2022-11-19T02:49:57Z",
+                "owner": "Jade-GG",
+                "repo": "plover_phrasing",
+                "stars": 38
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Phrasing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Emily's Symbols",
               "description": "A python dictionary that allows you to write symbols with full control over spacing on both sides of the symbol, capitalization, and count.",
               "children": [],
@@ -117,6 +161,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Excel Dictionary",
+              "description": "Store your strokes in a spreadsheet, with support for multiple sheets, extra columns, and even basic formulas. Perfect for organizing and annotating.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110582852,
+                "language": "Python",
+                "last_commit": "2024-07-26T04:13:44Z",
+                "owner": "opensteno",
+                "repo": "plover_excel_dictionary",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dictionary Formats"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Fancy Text",
               "description": "Switch between typing in all sorts of exotic modes. It's essential if you want to keep up with the kids, supporting everything from \"ｖａｐｏｒｗａｖｅ\" to \"sARcASm\" to \"c,,ry ttypinng,\".",
               "children": [],
@@ -201,13 +267,35 @@
           "description": null,
           "node_type": "group",
           "title": "Tools and Widgets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Console UI",
+              "description": "Run Plover entirely within a terminal window, complete with text-based widgets for paper tape, suggestions, and adding translations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 315435818,
+                "language": "Python",
+                "last_commit": "2024-03-05T11:07:29Z",
+                "owner": "psethwick",
+                "repo": "plover_console_ui",
+                "stars": 27
+              }
+            }
+          ],
+          "description": "Plover ships with two user interface options: QT (default) and None.",
+          "node_type": "group",
+          "title": "User Interface Replacements"
         }
       ],
       "title": "Plugins"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:24:03.308Z",
+    "last_updated": "2026-08-24T14:44:06.796Z",
     "original_repository": "opensteno/awesome-plover",
     "original_repository_id": 355398641,
     "original_repository_sha": "50a5aaa99509587262ea4c3ac7289996d87ea035",
