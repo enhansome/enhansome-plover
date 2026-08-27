@@ -295,9 +295,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:15:52.431Z",
-    "original_repository": "opensteno/awesome-plover",
-    "original_repository_id": 355398641,
+    "last_updated": "2026-08-27T11:56:33.720Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 355398641,
+      "language": null,
+      "last_commit": "2021-10-19T19:00:06Z",
+      "owner": "opensteno",
+      "repo": "awesome-plover",
+      "stars": 77
+    },
     "original_repository_sha": "50a5aaa99509587262ea4c3ac7289996d87ea035",
     "enhanced_repository": "enhansome/enhansome-plover",
     "enhanced_repository_description": null,
