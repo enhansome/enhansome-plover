@@ -18,7 +18,8 @@
                 "owner": "didoesdigital",
                 "repo": "steno-dictionaries",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T16:55:34.483Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "Jade-GG",
                 "repo": "plover_phrasing",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T16:55:34.483Z"
             }
           ],
           "description": null,
@@ -62,7 +64,8 @@
                 "owner": "EPLHREU",
                 "repo": "emily-symbols",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T16:55:34.483Z"
             },
             {
               "node_type": "item",
@@ -77,7 +80,8 @@
                 "owner": "EPLHREU",
                 "repo": "emily-modifiers",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T16:55:34.483Z"
             }
           ],
           "description": null,
@@ -105,7 +109,8 @@
                 "owner": "KoiOates",
                 "repo": "plover_dict_commands",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:55:34.483Z"
             },
             {
               "node_type": "item",
@@ -120,7 +125,8 @@
                 "owner": "nsmarkop",
                 "repo": "plover_system_switcher",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T16:55:34.483Z"
             },
             {
               "node_type": "item",
@@ -135,7 +141,8 @@
                 "owner": "nsmarkop",
                 "repo": "plover_open_url",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:55:34.483Z"
             },
             {
               "node_type": "item",
@@ -150,7 +157,8 @@
                 "owner": "opensteno",
                 "repo": "plover_vlc_commands",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:55:34.483Z"
             }
           ],
           "description": null,
@@ -172,7 +180,8 @@
                 "owner": "opensteno",
                 "repo": "plover_excel_dictionary",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:55:34.483Z"
             }
           ],
           "description": null,
@@ -194,7 +203,8 @@
                 "owner": "psethwick",
                 "repo": "plover_fancytext",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T16:55:34.483Z"
             },
             {
               "node_type": "item",
@@ -209,7 +219,8 @@
                 "owner": "nsmarkop",
                 "repo": "plover_last_translation",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T16:55:34.483Z"
             }
           ],
           "description": null,
@@ -231,7 +242,8 @@
                 "owner": "fourshade",
                 "repo": "spectra_lexer",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T16:55:34.483Z"
             },
             {
               "node_type": "item",
@@ -246,7 +258,8 @@
                 "owner": "tckmn",
                 "repo": "plover_clippy",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T16:55:34.483Z"
             },
             {
               "node_type": "item",
@@ -261,7 +274,8 @@
                 "owner": "arxanas",
                 "repo": "plover_wpm_meter",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:55:34.483Z"
             }
           ],
           "description": null,
@@ -283,7 +297,8 @@
                 "owner": "psethwick",
                 "repo": "plover_console_ui",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T16:55:34.483Z"
             }
           ],
           "description": "Plover ships with two user interface options: QT (default) and None.",
@@ -295,7 +310,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:30:44.217Z",
+    "last_updated": "2026-08-28T16:55:34.483Z",
     "original_repository_info": {
       "archived": false,
       "id": 355398641,
