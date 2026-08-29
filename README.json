@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Di's Plover-theory stenography dictionaries used by Typey Type for Stenographers.",
+                "homepage": null,
                 "id": 156055967,
                 "language": "JSON",
+                "license": "GPL-2.0",
                 "last_commit": "2026-03-24T11:27:54Z",
+                "open_issues": 2,
                 "owner": "didoesdigital",
                 "repo": "steno-dictionaries",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "dictionaries",
+                  "plover",
+                  "steno",
+                  "stenography",
+                  "typey"
+                ]
               },
               "first_seen": "2026-08-28T16:55:34.483Z"
             }
@@ -35,12 +46,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My phrasing system for plover, using python dictionaries",
+                "homepage": null,
                 "id": 162932681,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-19T02:49:57Z",
+                "open_issues": 2,
                 "owner": "Jade-GG",
                 "repo": "plover_phrasing",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "plover",
+                  "plover-phrasing",
+                  "python-dictionaries",
+                  "python-dictionary",
+                  "stenography"
+                ]
               },
               "first_seen": "2026-08-28T16:55:34.483Z"
             }
@@ -58,12 +80,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Plover python dictionary allowing for consistent symbol input with specification of attachment and capitalisation in one stroke.",
+                "homepage": null,
                 "id": 356106350,
                 "language": "Rich Text Format",
+                "license": null,
                 "last_commit": "2022-01-17T05:04:23Z",
+                "open_issues": 3,
                 "owner": "EPLHREU",
                 "repo": "emily-symbols",
-                "stars": 120
+                "stars": 120,
+                "topics": [
+                  "plover",
+                  "plover-dictionary"
+                ]
               },
               "first_seen": "2026-08-28T16:55:34.483Z"
             },
@@ -74,12 +104,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Plover python dictionary allowing for consistent modified key entry for any letter, symbol or keyboard shortcut.",
+                "homepage": null,
                 "id": 363159893,
                 "language": "Rich Text Format",
+                "license": null,
                 "last_commit": "2023-06-16T05:24:01Z",
+                "open_issues": 5,
                 "owner": "EPLHREU",
                 "repo": "emily-modifiers",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "plover",
+                  "plover-dictionary"
+                ]
               },
               "first_seen": "2026-08-28T16:55:34.483Z"
             }
@@ -103,12 +141,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 93353028,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-10-28T13:11:28Z",
+                "open_issues": 2,
                 "owner": "KoiOates",
                 "repo": "plover_dict_commands",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:34.483Z"
             },
@@ -119,12 +162,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command plugin for Plover to switch the active system",
+                "homepage": null,
                 "id": 116898369,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2018-01-11T03:23:18Z",
+                "open_issues": 0,
                 "owner": "nsmarkop",
                 "repo": "plover_system_switcher",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "plover",
+                  "plugin"
+                ]
               },
               "first_seen": "2026-08-28T16:55:34.483Z"
             },
@@ -135,12 +186,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command plugin for Plover to open a URL, a folder, or files",
+                "homepage": null,
                 "id": 129852082,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-07-11T03:11:35Z",
+                "open_issues": 0,
                 "owner": "nsmarkop",
                 "repo": "plover_open_url",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "plover",
+                  "plugin"
+                ]
               },
               "first_seen": "2026-08-28T16:55:34.483Z"
             },
@@ -151,12 +210,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "VLC commands for Plover",
+                "homepage": null,
                 "id": 81007150,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-09-03T15:52:17Z",
+                "open_issues": 0,
                 "owner": "opensteno",
                 "repo": "plover_vlc_commands",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "plover"
+                ]
               },
               "first_seen": "2026-08-28T16:55:34.483Z"
             }
@@ -174,12 +240,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Excel dictionaries support for Plover",
+                "homepage": null,
                 "id": 110582852,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-26T04:13:44Z",
+                "open_issues": 3,
                 "owner": "opensteno",
                 "repo": "plover_excel_dictionary",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "plover"
+                ]
               },
               "first_seen": "2026-08-28T16:55:34.483Z"
             }
@@ -197,12 +270,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fancytext plugin for Plover",
+                "homepage": "https://pypi.org/project/plover-fancytext/",
                 "id": 270114393,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-02-23T19:15:50Z",
+                "open_issues": 2,
                 "owner": "psethwick",
                 "repo": "plover_fancytext",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "plover",
+                  "plugin",
+                  "stenography",
+                  "unicode"
+                ]
               },
               "first_seen": "2026-08-28T16:55:34.483Z"
             },
@@ -213,12 +296,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plugins for Plover to repeat output",
+                "homepage": null,
                 "id": 120694076,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2018-06-21T04:59:33Z",
+                "open_issues": 5,
                 "owner": "nsmarkop",
                 "repo": "plover_last_translation",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "plover",
+                  "plugin"
+                ]
               },
               "first_seen": "2026-08-28T16:55:34.483Z"
             }
@@ -236,12 +327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stroke and rule analyzer for stenography",
+                "homepage": null,
                 "id": 155943812,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2023-04-22T00:39:37Z",
+                "open_issues": 5,
                 "owner": "fourshade",
                 "repo": "spectra_lexer",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:34.483Z"
             },
@@ -252,12 +348,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Logs inefficient strokes to a file for later review.",
+                "homepage": null,
                 "id": 301548236,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2020-10-05T21:50:02Z",
+                "open_issues": 0,
                 "owner": "tckmn",
                 "repo": "plover_clippy",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:55:34.483Z"
             },
@@ -268,12 +369,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WPM meter plugin for the Plover stenography system",
+                "homepage": null,
                 "id": 82433826,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-13T16:46:08Z",
+                "open_issues": 3,
                 "owner": "arxanas",
                 "repo": "plover_wpm_meter",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "plover",
+                  "plugin"
+                ]
               },
               "first_seen": "2026-08-28T16:55:34.483Z"
             }
@@ -291,12 +400,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Text User Interface plugin for Plover",
+                "homepage": null,
                 "id": 315435818,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-03-05T11:07:29Z",
+                "open_issues": 2,
                 "owner": "psethwick",
                 "repo": "plover_console_ui",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "plover",
+                  "plugins"
+                ]
               },
               "first_seen": "2026-08-28T16:55:34.483Z"
             }
@@ -310,15 +427,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:55:34.483Z",
+    "last_updated": "2026-08-29T05:02:43.087Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list: awesome plugins and dictionaries for Plover, the open source stenography software.",
+      "homepage": null,
       "id": 355398641,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2021-10-19T19:00:06Z",
+      "open_issues": 0,
       "owner": "opensteno",
       "repo": "awesome-plover",
-      "stars": 77
+      "stars": 77,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "plover",
+        "steno",
+        "stenography"
+      ]
     },
     "original_repository_sha": "50a5aaa99509587262ea4c3ac7289996d87ea035",
     "enhanced_repository": "enhansome/enhansome-plover",
