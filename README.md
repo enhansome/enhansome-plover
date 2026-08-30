@@ -71,4 +71,4 @@ If you have a favorite Plover plugin or dictionary that isn't listed, it would b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
