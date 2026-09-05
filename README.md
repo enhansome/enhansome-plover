@@ -4,13 +4,13 @@
 
 <!--lint ignore double-link-->
 
-[<img src="https://raw.githubusercontent.com/openstenoproject/plover/master/plover/assets/plover-icon.svg" align="right" width="10%">](https://github.com/openstenoproject/plover) ⭐ 2,582 | 🐛 121 | 🌐 Python | 📅 2026-08-27
+[<img src="https://raw.githubusercontent.com/openstenoproject/plover/master/plover/assets/plover-icon.svg" align="right" width="10%">](https://github.com/openstenoproject/plover) ⭐ 2,584 | 🐛 121 | 🌐 Python | 📅 2026-08-27
 
 > A curated list of dictionaries and plugins for Plover, the open source stenography software.
 
 <!--lint ignore double-link-->
 
-[Plover](https://github.com/openstenoproject/plover) ⭐ 2,582 | 🐛 121 | 🌐 Python | 📅 2026-08-27 is a free, open source [stenography](https://en.wikipedia.org/wiki/Stenotype) engine. It allows individuals to replace their keyboard and write into any program at speeds of over 200 words per minute.
+[Plover](https://github.com/openstenoproject/plover) ⭐ 2,584 | 🐛 121 | 🌐 Python | 📅 2026-08-27 is a free, open source [stenography](https://en.wikipedia.org/wiki/Stenotype) engine. It allows individuals to replace their keyboard and write into any program at speeds of over 200 words per minute.
 
 ## Contents
 
@@ -71,4 +71,4 @@ If you have a favorite Plover plugin or dictionary that isn't listed, it would b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
