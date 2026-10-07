@@ -55,7 +55,7 @@
 
 ### Tools and Widgets
 
-* [Spectra Lexer](https://github.com/fourshade/spectra_lexer) ⭐ 37 | 🐛 5 | 🌐 Python | 📅 2023-04-22 - A beautiful tool that explains why words are stroked the way that they are in your dictionary.
+* [Spectra Lexer](https://github.com/fourshade/spectra_lexer) ⭐ 38 | 🐛 5 | 🌐 Python | 📅 2023-04-22 - A beautiful tool that explains why words are stroked the way that they are in your dictionary.
 * [Clippy](https://github.com/tckmn/plover_clippy) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2020-10-05 - Creates a text file which stores all your inefficient strokes, saving you from watching the suggestions window all the time.
 * [WPM Meter](https://github.com/arxanas/plover_wpm_meter) ⭐ 7 | 🐛 3 | 🌐 Python | 📅 2026-04-13 - See the words per minute and strokes per word of your writing for the last 10 and 60 seconds.
 
@@ -71,4 +71,4 @@ If you have a favorite Plover plugin or dictionary that isn't listed, it would b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._

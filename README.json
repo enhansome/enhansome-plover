@@ -336,7 +336,7 @@
                 "open_issues": 5,
                 "owner": "fourshade",
                 "repo": "spectra_lexer",
-                "stars": 37,
+                "stars": 38,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:55:34.483Z"
@@ -427,7 +427,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:30:47.217Z",
+    "last_updated": "2026-10-07T11:20:45.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list: awesome plugins and dictionaries for Plover, the open source stenography software.",
