@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "didoesdigital",
                 "repo": "steno-dictionaries",
-                "stars": 96,
+                "stars": 97,
                 "topics": [
                   "dictionaries",
                   "plover",
@@ -89,7 +89,7 @@
                 "open_issues": 3,
                 "owner": "EPLHREU",
                 "repo": "emily-symbols",
-                "stars": 120,
+                "stars": 121,
                 "topics": [
                   "plover",
                   "plover-dictionary"
@@ -113,7 +113,7 @@
                 "open_issues": 5,
                 "owner": "EPLHREU",
                 "repo": "emily-modifiers",
-                "stars": 59,
+                "stars": 60,
                 "topics": [
                   "plover",
                   "plover-dictionary"
@@ -427,7 +427,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T09:25:51.260Z",
+    "last_updated": "2026-10-16T09:17:27.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list: awesome plugins and dictionaries for Plover, the open source stenography software.",
@@ -439,7 +439,7 @@
       "open_issues": 0,
       "owner": "opensteno",
       "repo": "awesome-plover",
-      "stars": 77,
+      "stars": 78,
       "topics": [
         "awesome",
         "awesome-list",

@@ -4,13 +4,13 @@
 
 <!--lint ignore double-link-->
 
-[<img src="https://raw.githubusercontent.com/openstenoproject/plover/master/plover/assets/plover-icon.svg" align="right" width="10%">](https://github.com/openstenoproject/plover) ⭐ 2,597 | 🐛 125 | 🌐 Python | 📅 2026-10-11
+[<img src="https://raw.githubusercontent.com/openstenoproject/plover/master/plover/assets/plover-icon.svg" align="right" width="10%">](https://github.com/openstenoproject/plover) ⭐ 2,599 | 🐛 125 | 🌐 Python | 📅 2026-10-11
 
 > A curated list of dictionaries and plugins for Plover, the open source stenography software.
 
 <!--lint ignore double-link-->
 
-[Plover](https://github.com/openstenoproject/plover) ⭐ 2,597 | 🐛 125 | 🌐 Python | 📅 2026-10-11 is a free, open source [stenography](https://en.wikipedia.org/wiki/Stenotype) engine. It allows individuals to replace their keyboard and write into any program at speeds of over 200 words per minute.
+[Plover](https://github.com/openstenoproject/plover) ⭐ 2,599 | 🐛 125 | 🌐 Python | 📅 2026-10-11 is a free, open source [stenography](https://en.wikipedia.org/wiki/Stenotype) engine. It allows individuals to replace their keyboard and write into any program at speeds of over 200 words per minute.
 
 ## Contents
 
@@ -21,7 +21,7 @@
 
 ### Collections
 
-* [Di's Steno Dictionaries](https://github.com/didoesdigital/steno-dictionaries) ⭐ 96 | 🐛 2 | 🌐 JSON | 📅 2026-03-24 - A wonderfully organized list of dictionaries from the maker of Typey Type with everything from removing misstrokes from Plover Theory, to advice on computer use, alternative locales, and programming.
+* [Di's Steno Dictionaries](https://github.com/didoesdigital/steno-dictionaries) ⭐ 97 | 🐛 2 | 🌐 JSON | 📅 2026-03-24 - A wonderfully organized list of dictionaries from the maker of Typey Type with everything from removing misstrokes from Plover Theory, to advice on computer use, alternative locales, and programming.
 
 ### Phrasing
 
@@ -29,8 +29,8 @@
 
 ### Programming
 
-* [Emily's Symbols](https://github.com/EPLHREU/emily-symbols) ⭐ 120 | 🐛 3 | 🌐 Rich Text Format | 📅 2022-01-17 - A python dictionary that allows you to write symbols with full control over spacing on both sides of the symbol, capitalization, and count.
-* [Emily's Modifiers](https://github.com/EPLHREU/emily-modifiers) ⭐ 59 | 🐛 5 | 🌐 Rich Text Format | 📅 2023-06-16 - A python dictionary to allow you to make any keyboard shortcut (with any number of modifiers) in one stroke.
+* [Emily's Symbols](https://github.com/EPLHREU/emily-symbols) ⭐ 121 | 🐛 3 | 🌐 Rich Text Format | 📅 2022-01-17 - A python dictionary that allows you to write symbols with full control over spacing on both sides of the symbol, capitalization, and count.
+* [Emily's Modifiers](https://github.com/EPLHREU/emily-modifiers) ⭐ 60 | 🐛 5 | 🌐 Rich Text Format | 📅 2023-06-16 - A python dictionary to allow you to make any keyboard shortcut (with any number of modifiers) in one stroke.
 
 ## Plugins
 
@@ -71,4 +71,4 @@ If you have a favorite Plover plugin or dictionary that isn't listed, it would b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
