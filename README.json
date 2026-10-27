@@ -427,7 +427,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T10:31:04.390Z",
+    "last_updated": "2026-10-27T10:02:51.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list: awesome plugins and dictionaries for Plover, the open source stenography software.",
@@ -439,7 +439,7 @@
       "open_issues": 0,
       "owner": "opensteno",
       "repo": "awesome-plover",
-      "stars": 78,
+      "stars": 79,
       "topics": [
         "awesome",
         "awesome-list",
