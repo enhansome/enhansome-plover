@@ -21,7 +21,7 @@
 
 ### Collections
 
-* [Di's Steno Dictionaries](https://github.com/didoesdigital/steno-dictionaries) ⭐ 98 | 🐛 2 | 🌐 JSON | 📅 2026-03-24 - A wonderfully organized list of dictionaries from the maker of Typey Type with everything from removing misstrokes from Plover Theory, to advice on computer use, alternative locales, and programming.
+* [Di's Steno Dictionaries](https://github.com/didoesdigital/steno-dictionaries) ⭐ 99 | 🐛 2 | 🌐 JSON | 📅 2026-03-24 - A wonderfully organized list of dictionaries from the maker of Typey Type with everything from removing misstrokes from Plover Theory, to advice on computer use, alternative locales, and programming.
 
 ### Phrasing
 
@@ -71,4 +71,4 @@ If you have a favorite Plover plugin or dictionary that isn't listed, it would b
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
